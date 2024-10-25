@@ -41,7 +41,7 @@ This project enhances user satisfaction by creating a seamless reading experienc
 - **Platform:** Android (for app integration)
 
 ## Research Paper
-[Research Paper](https://ijsrcseit.com/paper/CSEIT2390381.pdf)
+[Research Paper](https://ijsrcseit.com/paper/CSEIT2390381.pdf) <br>
 This project is based on the concepts outlined in the published paper: **"Enhancing Book Recommendations in Android Applications Using Autoencoders and Hybrid Filtering."**
 
 The paper explores how autoencoders, a type of neural network, are utilized in combination with collaborative filtering to generate personalized recommendations. It also discusses hybrid filtering algorithms that improve recommendation accuracy by merging multiple recommendation models.
